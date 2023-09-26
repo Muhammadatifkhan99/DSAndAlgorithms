@@ -1,0 +1,2 @@
+/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp
+/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp
