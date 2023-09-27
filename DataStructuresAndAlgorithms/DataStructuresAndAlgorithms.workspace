@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="DataStructuresAndAlgorithms" Database="" Version="10000">
   <Project Name="TestingEnviroment" Path="TestingEnviroment/TestingEnviroment.project" Active="No"/>
-  <Project Name="ArrayBasics" Path="ArrayBasics/ArrayBasics.project" Active="Yes"/>
+  <Project Name="ArrayBasics" Path="ArrayBasics/ArrayBasics.project" Active="No"/>
+  <Project Name="SumofArrayElements" Path="SumofArrayElements/SumofArrayElements.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="TestingEnviroment" ConfigName="Debug"/>
       <Project Name="ArrayBasics" ConfigName="Debug"/>
+      <Project Name="SumofArrayElements" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="TestingEnviroment" ConfigName="Release"/>
       <Project Name="ArrayBasics" ConfigName="Release"/>
+      <Project Name="SumofArrayElements" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

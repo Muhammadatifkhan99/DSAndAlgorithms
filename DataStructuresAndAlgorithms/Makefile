@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ArrayBasics - Debug ]----------"
-	@cd "ArrayBasics" && "$(MAKE)" -f  "ArrayBasics.mk"
+	@echo "----------Building project:[ SumofArrayElements - Debug ]----------"
+	@cd "SumofArrayElements" && "$(MAKE)" -f  "SumofArrayElements.mk"
 clean:
-	@echo "----------Cleaning project:[ ArrayBasics - Debug ]----------"
-	@cd "ArrayBasics" && "$(MAKE)" -f  "ArrayBasics.mk" clean
+	@echo "----------Cleaning project:[ SumofArrayElements - Debug ]----------"
+	@cd "SumofArrayElements" && "$(MAKE)" -f  "SumofArrayElements.mk" clean
