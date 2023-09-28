@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ReversingArraySWAPFunction - Debug ]----------"
-	@cd "ReversingArray(SWAPFunction)" && "$(MAKE)" -f  "ReversingArraySWAPFunction.mk"
+	@echo "----------Building project:[ SegmentationFaultAndMAXArraySize - Debug ]----------"
+	@cd "SegmentationFaultAndMAXArraySize" && "$(MAKE)" -f  "SegmentationFaultAndMAXArraySize.mk"
 clean:
-	@echo "----------Cleaning project:[ ReversingArraySWAPFunction - Debug ]----------"
-	@cd "ReversingArray(SWAPFunction)" && "$(MAKE)" -f  "ReversingArraySWAPFunction.mk" clean
+	@echo "----------Cleaning project:[ SegmentationFaultAndMAXArraySize - Debug ]----------"
+	@cd "SegmentationFaultAndMAXArraySize" && "$(MAKE)" -f  "SegmentationFaultAndMAXArraySize.mk" clean
