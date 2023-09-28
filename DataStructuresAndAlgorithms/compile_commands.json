@@ -1,7 +1,15 @@
 [{
+  "file": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp",
+  "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)",
+  "command": "/usr/bin/g++ -c /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp -o /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp",
   "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers",
   "command": "/usr/bin/g++ -c /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp -o /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp",
+  "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray",
+  "command": "/usr/bin/g++ -c /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp -o /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp",
   "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement",

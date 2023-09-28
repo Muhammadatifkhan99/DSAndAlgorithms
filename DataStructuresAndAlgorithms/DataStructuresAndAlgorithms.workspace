@@ -4,7 +4,9 @@
   <Project Name="ArrayBasics" Path="ArrayBasics/ArrayBasics.project" Active="No"/>
   <Project Name="SumofArrayElements" Path="SumofArrayElements/SumofArrayElements.project" Active="No"/>
   <Project Name="FindingTheLargestElement" Path="FindingTheLargestElement/FindingTheLargestElement.project" Active="No"/>
-  <Project Name="SwappingTwoNumbers" Path="SwappingTwoNumbers/SwappingTwoNumbers.project" Active="Yes"/>
+  <Project Name="SwappingTwoNumbers" Path="SwappingTwoNumbers/SwappingTwoNumbers.project" Active="No"/>
+  <Project Name="PrintingArrayInReverse" Path="ReversingAnArray/ReversingAnArray.project" Active="No"/>
+  <Project Name="ReversingArray(SWAPFunction)" Path="ReversingArray(SWAPFunction)/ReversingArray(SWAPFunction).project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +15,8 @@
       <Project Name="SumofArrayElements" ConfigName="Debug"/>
       <Project Name="FindingTheLargestElement" ConfigName="Debug"/>
       <Project Name="SwappingTwoNumbers" ConfigName="Debug"/>
+      <Project Name="PrintingArrayInReverse" ConfigName="Debug"/>
+      <Project Name="ReversingArray(SWAPFunction)" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +25,8 @@
       <Project Name="SumofArrayElements" ConfigName="Release"/>
       <Project Name="FindingTheLargestElement" ConfigName="Release"/>
       <Project Name="SwappingTwoNumbers" ConfigName="Release"/>
+      <Project Name="PrintingArrayInReverse" ConfigName="Release"/>
+      <Project Name="ReversingArray(SWAPFunction)" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
