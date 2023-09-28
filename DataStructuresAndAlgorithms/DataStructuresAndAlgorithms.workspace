@@ -6,7 +6,7 @@
   <Project Name="FindingTheLargestElement" Path="FindingTheLargestElement/FindingTheLargestElement.project" Active="No"/>
   <Project Name="SwappingTwoNumbers" Path="SwappingTwoNumbers/SwappingTwoNumbers.project" Active="No"/>
   <Project Name="PrintingArrayInReverse" Path="ReversingAnArray/ReversingAnArray.project" Active="No"/>
-  <Project Name="ReversingArray(SWAPFunction)" Path="ReversingArray(SWAPFunction)/ReversingArray(SWAPFunction).project" Active="Yes"/>
+  <Project Name="ReversingArraySWAPFunction" Path="ReversingArray(SWAPFunction)/ReversingArray(SWAPFunction).project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -16,7 +16,7 @@
       <Project Name="FindingTheLargestElement" ConfigName="Debug"/>
       <Project Name="SwappingTwoNumbers" ConfigName="Debug"/>
       <Project Name="PrintingArrayInReverse" ConfigName="Debug"/>
-      <Project Name="ReversingArray(SWAPFunction)" ConfigName="Debug"/>
+      <Project Name="ReversingArraySWAPFunction" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -26,7 +26,7 @@
       <Project Name="FindingTheLargestElement" ConfigName="Release"/>
       <Project Name="SwappingTwoNumbers" ConfigName="Release"/>
       <Project Name="PrintingArrayInReverse" ConfigName="Release"/>
-      <Project Name="ReversingArray(SWAPFunction)" ConfigName="Release"/>
+      <Project Name="ReversingArraySWAPFunction" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

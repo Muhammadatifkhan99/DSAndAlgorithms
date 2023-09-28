@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ReversingArray(SWAPFunction) - Debug ]----------"
-	@cd "ReversingArray(SWAPFunction)" && "$(MAKE)" -f  "ReversingArray(SWAPFunction).mk"
+	@echo "----------Building project:[ ReversingArraySWAPFunction - Debug ]----------"
+	@cd "ReversingArray(SWAPFunction)" && "$(MAKE)" -f  "ReversingArraySWAPFunction.mk"
 clean:
-	@echo "----------Cleaning project:[ ReversingArray(SWAPFunction) - Debug ]----------"
-	@cd "ReversingArray(SWAPFunction)" && "$(MAKE)" -f  "ReversingArray(SWAPFunction).mk" clean
+	@echo "----------Cleaning project:[ ReversingArraySWAPFunction - Debug ]----------"
+	@cd "ReversingArray(SWAPFunction)" && "$(MAKE)" -f  "ReversingArraySWAPFunction.mk" clean
