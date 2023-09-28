@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ FindingTheLargestElement - Debug ]----------"
-	@cd "FindingTheLargestElement" && "$(MAKE)" -f  "FindingTheLargestElement.mk"
+	@echo "----------Building project:[ SwappingTwoNumbers - Debug ]----------"
+	@cd "SwappingTwoNumbers" && "$(MAKE)" -f  "SwappingTwoNumbers.mk"
 clean:
-	@echo "----------Cleaning project:[ FindingTheLargestElement - Debug ]----------"
-	@cd "FindingTheLargestElement" && "$(MAKE)" -f  "FindingTheLargestElement.mk" clean
+	@echo "----------Cleaning project:[ SwappingTwoNumbers - Debug ]----------"
+	@cd "SwappingTwoNumbers" && "$(MAKE)" -f  "SwappingTwoNumbers.mk" clean

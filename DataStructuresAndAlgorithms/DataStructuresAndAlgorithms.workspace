@@ -3,7 +3,8 @@
   <Project Name="TestingEnviroment" Path="TestingEnviroment/TestingEnviroment.project" Active="No"/>
   <Project Name="ArrayBasics" Path="ArrayBasics/ArrayBasics.project" Active="No"/>
   <Project Name="SumofArrayElements" Path="SumofArrayElements/SumofArrayElements.project" Active="No"/>
-  <Project Name="FindingTheLargestElement" Path="FindingTheLargestElement/FindingTheLargestElement.project" Active="Yes"/>
+  <Project Name="FindingTheLargestElement" Path="FindingTheLargestElement/FindingTheLargestElement.project" Active="No"/>
+  <Project Name="SwappingTwoNumbers" Path="SwappingTwoNumbers/SwappingTwoNumbers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="ArrayBasics" ConfigName="Debug"/>
       <Project Name="SumofArrayElements" ConfigName="Debug"/>
       <Project Name="FindingTheLargestElement" ConfigName="Debug"/>
+      <Project Name="SwappingTwoNumbers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="ArrayBasics" ConfigName="Release"/>
       <Project Name="SumofArrayElements" ConfigName="Release"/>
       <Project Name="FindingTheLargestElement" ConfigName="Release"/>
+      <Project Name="SwappingTwoNumbers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
