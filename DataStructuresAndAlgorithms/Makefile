@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ CharacterArrayIntroduction - Debug ]----------"
-	@cd "CharacterArrayIntroduction" && "$(MAKE)" -f  "CharacterArrayIntroduction.mk"
+	@echo "----------Building project:[ LengthOfString - Debug ]----------"
+	@cd "LengthOfString" && "$(MAKE)" -f  "LengthOfString.mk"
 clean:
-	@echo "----------Cleaning project:[ CharacterArrayIntroduction - Debug ]----------"
-	@cd "CharacterArrayIntroduction" && "$(MAKE)" -f  "CharacterArrayIntroduction.mk" clean
+	@echo "----------Cleaning project:[ LengthOfString - Debug ]----------"
+	@cd "LengthOfString" && "$(MAKE)" -f  "LengthOfString.mk" clean

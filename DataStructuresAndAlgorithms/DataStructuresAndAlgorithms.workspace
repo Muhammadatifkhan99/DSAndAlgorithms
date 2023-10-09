@@ -8,7 +8,8 @@
   <Project Name="PrintingArrayInReverse" Path="ReversingAnArray/ReversingAnArray.project" Active="No"/>
   <Project Name="ReversingArraySWAPFunction" Path="ReversingArray(SWAPFunction)/ReversingArray(SWAPFunction).project" Active="No"/>
   <Project Name="SegmentationFaultAndMAXArraySize" Path="SegmentationFaultAndMAXArraySize/SegmentationFaultAndMAXArraySize.project" Active="No"/>
-  <Project Name="CharacterArrayIntroduction" Path="CharacterArrayIntroduction/CharacterArrayIntroduction.project" Active="Yes"/>
+  <Project Name="CharacterArrayIntroduction" Path="CharacterArrayIntroduction/CharacterArrayIntroduction.project" Active="No"/>
+  <Project Name="LengthOfString" Path="LengthOfString/LengthOfString.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -21,6 +22,7 @@
       <Project Name="ReversingArraySWAPFunction" ConfigName="Debug"/>
       <Project Name="SegmentationFaultAndMAXArraySize" ConfigName="Debug"/>
       <Project Name="CharacterArrayIntroduction" ConfigName="Debug"/>
+      <Project Name="LengthOfString" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -33,6 +35,7 @@
       <Project Name="ReversingArraySWAPFunction" ConfigName="Release"/>
       <Project Name="SegmentationFaultAndMAXArraySize" ConfigName="Release"/>
       <Project Name="CharacterArrayIntroduction" ConfigName="Release"/>
+      <Project Name="LengthOfString" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
