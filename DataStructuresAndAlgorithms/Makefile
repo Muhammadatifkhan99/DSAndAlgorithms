@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ SegmentationFaultAndMAXArraySize - Debug ]----------"
-	@cd "SegmentationFaultAndMAXArraySize" && "$(MAKE)" -f  "SegmentationFaultAndMAXArraySize.mk"
+	@echo "----------Building project:[ CharacterArrayIntroduction - Debug ]----------"
+	@cd "CharacterArrayIntroduction" && "$(MAKE)" -f  "CharacterArrayIntroduction.mk"
 clean:
-	@echo "----------Cleaning project:[ SegmentationFaultAndMAXArraySize - Debug ]----------"
-	@cd "SegmentationFaultAndMAXArraySize" && "$(MAKE)" -f  "SegmentationFaultAndMAXArraySize.mk" clean
+	@echo "----------Cleaning project:[ CharacterArrayIntroduction - Debug ]----------"
+	@cd "CharacterArrayIntroduction" && "$(MAKE)" -f  "CharacterArrayIntroduction.mk" clean
