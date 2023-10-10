@@ -22,7 +22,8 @@ int main(){
     
     char str [] {};
     cin.getline(str,100);
-    cout<<"The string before reverse is: "<<str<<endl;
+    cout<<"The string before reverse is: "<<str<
+    <endl;
     reverse(str);
     cout<<"Reverse string is: "<<str<<endl;
     

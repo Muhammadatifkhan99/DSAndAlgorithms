@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ReversingAString - Debug ]----------"
-	@cd "ReversingAString" && "$(MAKE)" -f  "ReversingAString.mk"
+	@echo "----------Building project:[ InbuiltFunctions - Debug ]----------"
+	@cd "InbuiltFunctions" && "$(MAKE)" -f  "InbuiltFunctions.mk"
 clean:
-	@echo "----------Cleaning project:[ ReversingAString - Debug ]----------"
-	@cd "ReversingAString" && "$(MAKE)" -f  "ReversingAString.mk" clean
+	@echo "----------Cleaning project:[ InbuiltFunctions - Debug ]----------"
+	@cd "InbuiltFunctions" && "$(MAKE)" -f  "InbuiltFunctions.mk" clean
