@@ -19,6 +19,10 @@
   "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement",
   "command": "/usr/bin/g++ -c /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp -o /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp",
+  "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString",
+  "command": "/usr/bin/g++ -c /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp -o /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp",
   "directory": "/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString",
   "command": "/usr/bin/g++ -c /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp -o /home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -std=c++14  -Wall  -gdwarf-2  -O0  -Wall"

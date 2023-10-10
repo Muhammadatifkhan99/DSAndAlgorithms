@@ -6,14 +6,14 @@
     <TabInfo>
       <wxString Value="/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="6" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/home/muhammadatif/CodeLite/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="6" Name="CurrentLine"/>
+      <int Value="12" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
