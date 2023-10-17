@@ -45,19 +45,32 @@ int main(){
 //    cout<<boolalpha;
 //    cout<<"The out put of our own defined ftn: "<<mystrcmp(str1,str2)<<endl;
     
-    cout<<"THE STRING COPY FUNCTION"<<endl;
-    char one [100] {"abc"};
-    char two [100] {""};
-    cout<<"Before Copying the strings "<<endl;
-    cout<<"string 1 "<<one<<endl;
-    cout<<"string 2 "<<two<<endl;
-    strcpy(two,one);    //this function also copies the null character
-    cout<<"After copy "<<endl;
-    cout<<"string 1 now "<<one<<endl;
-    cout<<"string 2 now "<<two<<endl;
+//    cout<<"THE STRING COPY FUNCTION"<<endl;
+//    char one [100] {"abc"};
+//    char two [100] {""};
+//    cout<<"Before Copying the strings "<<endl;
+//    cout<<"string 1 "<<one<<endl;
+//    cout<<"string 2 "<<two<<endl;
+//    strcpy(two,one);    //this function also copies the null character
+//    cout<<"After copy "<<endl;
+//    cout<<"string 1 now "<<one<<endl;
+//    cout<<"string 2 now "<<two<<endl;
+//    
+//    cout<<"\n==========User defined strcpy()=========="<<endl;
+//    mystrcpy(two,one);
     
-    cout<<"\n==========User defined strcpy()=========="<<endl;
-    mystrcpy(two,one);
+    //String n Copy function i.e strncpy
+    char hello [100] {"abc"};
+    char str2 [100] {"hello"};
+    cout<<hello<<" before copying"<<endl;
+    strncpy(hello,str2,4);
+    cout<<hello<<" After copying"<<endl;
+    
+    //String concatenation
+    for(size_t i{0};i<strlen(str2);i++){
+        hello[strlen(hello)+i] = str2[2];
+    }
+    cout<<hello<<endl;
 
     return 0;
 }                
