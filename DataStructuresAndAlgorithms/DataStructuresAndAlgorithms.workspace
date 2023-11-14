@@ -11,7 +11,8 @@
   <Project Name="CharacterArrayIntroduction" Path="CharacterArrayIntroduction/CharacterArrayIntroduction.project" Active="No"/>
   <Project Name="LengthOfString" Path="LengthOfString/LengthOfString.project" Active="No"/>
   <Project Name="ReversingAString" Path="ReversingAString/ReversingAString.project" Active="No"/>
-  <Project Name="InbuiltFunctions" Path="InbuiltFunctions/InbuiltFunctions.project" Active="Yes"/>
+  <Project Name="InbuiltFunctions" Path="InbuiltFunctions/InbuiltFunctions.project" Active="No"/>
+  <Project Name="ObjectOrientedProgramming" Path="ObjectOrientedProgramming/ObjectOrientedProgramming.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -27,6 +28,7 @@
       <Project Name="LengthOfString" ConfigName="Debug"/>
       <Project Name="ReversingAString" ConfigName="Debug"/>
       <Project Name="InbuiltFunctions" ConfigName="Debug"/>
+      <Project Name="ObjectOrientedProgramming" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -42,6 +44,7 @@
       <Project Name="LengthOfString" ConfigName="Release"/>
       <Project Name="ReversingAString" ConfigName="Release"/>
       <Project Name="InbuiltFunctions" ConfigName="Release"/>
+      <Project Name="ObjectOrientedProgramming" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
