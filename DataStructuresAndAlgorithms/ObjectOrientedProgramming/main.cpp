@@ -29,9 +29,10 @@ int main(){
     Student s3,s4,s5;
     
     s1.rollno = 11;
-    s1.age = 21;
+    cout<<"Displaying age with getAge() "<<s1.getAge()<<endl;
+//    s1.age = 21;
     cout<<s1.rollno<<endl;
-    cout<<s1.age<<endl;
+//    cout<<s1.age<<endl;
     
     //creating objects dynamically 
     
@@ -39,19 +40,23 @@ int main(){
     cout<<"These are objects created dynamically on the heap"<<endl;
     Student *s6 = new Student;
     
-    (*s6).age = 23;
+//    (*s6).age = 23;
+    cout<<"Displaying age with getAge() "<<(*s6).getAge()<<endl;
     (*s6).rollno = 200;
     
-    cout<<(*s6).age<<endl;
+//    cout<<(*s6).age<<endl;
     cout<<(*s6).rollno<<endl;
     
-    s6->age = 222;
+//    s6->age = 222;
+    cout<<"Displaying age of s6 with getAge() "<<s6->getAge()<<endl;
     s6->rollno = 3000;
     
-    cout<<s6->age<<endl;
+//    cout<<s6->age<<endl;
     cout<<s6->rollno<<endl;
     
+    cout<<"SETTERS"<<endl;
+    s6->setAge(100);
+    s6->display();
     
-    
-    
+
 }
