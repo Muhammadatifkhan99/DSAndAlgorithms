@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ObjectOrientedProgramming - Debug ]----------"
-	@cd "ObjectOrientedProgramming" && "$(MAKE)" -f  "ObjectOrientedProgramming.mk"
+	@echo "----------Building project:[ Constructor - Debug ]----------"
+	@cd "Constructor" && "$(MAKE)" -f  "Constructor.mk"
 clean:
-	@echo "----------Cleaning project:[ ObjectOrientedProgramming - Debug ]----------"
-	@cd "ObjectOrientedProgramming" && "$(MAKE)" -f  "ObjectOrientedProgramming.mk" clean
+	@echo "----------Cleaning project:[ Constructor - Debug ]----------"
+	@cd "Constructor" && "$(MAKE)" -f  "Constructor.mk" clean

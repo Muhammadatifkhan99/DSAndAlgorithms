@@ -1,4 +1,56 @@
 [{
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -std=c++14  -Wall  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/Constructor/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/Constructor",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/Constructor/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/Constructor/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming/main.cpp",
   "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming",
   "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -6,52 +58,4 @@
   "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming/Student.cpp",
   "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming",
   "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming/Student.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ObjectOrientedProgramming/Student.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InbuiltFunctions/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/CharacterArrayIntroduction/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SegmentationFaultAndMAXArraySize/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SwappingTwoNumbers/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAnArray/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FindingTheLargestElement/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingAString/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/LengthOfString/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -std=c++14  -Wall  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/SumofArrayElements/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp",
-  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment",
-  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -g  -O0  -std=c++17  -Wall"
  }]
