@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 
@@ -10,18 +9,20 @@ public: // we need to specify public and after this everything will be public i.
     
     
     //Constructors
-    Student(){
-        cout<<"No-param constructor called"<<endl;
-    }
-    
+//    Student(){
+//        cout<<"No-param constructor called"<<endl;
+//    }
+//    
     Student(int age){
-       age = age;
+       this->age = age;
         cout<<"One-param constructor called"<<endl;
+        cout<<"Address of the this: "<<this<<endl;
     }
-    Student(int age, int rollno){
-        this.age = age;
-        this.rollno = rollno;
+    Student(int a, int r){
+        age = a;
+        rollno = r;
         cout<<"Two-param constructor called"<<endl;
+        cout<<"Address of this keyword: "<<this<<endl;
     }
     
     int getAge(){
@@ -40,6 +41,7 @@ public: // we need to specify public and after this everything will be public i.
     
     
 int main(){
+    /*
     Student s1;
     s1.display();
     
@@ -50,7 +52,20 @@ int main(){
 //    (*s3).setAge(45);
 //    (*s3).setRollno(20000);
     s3->display();
+    */
     
+    Student s(12);
+    cout<<"Address of s: "<<&s<<endl;
+    s.display();
+    
+    
+    Student s1(10,1000);
+    cout<<"Address of s1: "<<&s1<<endl;
+    s1.display();
+    
+    Student s2(20,2000);
+    cout<<"Address of s2: "<<&s2<<endl;
+    s2.display();
     
     return 0;
 }
