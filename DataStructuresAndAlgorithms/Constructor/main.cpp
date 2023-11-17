@@ -41,31 +41,31 @@ public: // we need to specify public and after this everything will be public i.
     
     
 int main(){
-    /*
-    Student s1;
+    
+    Student s1(10,100);
+    cout<<"S1 is: ";
     s1.display();
     
-    Student s2(7654);
+    Student s2(s1);
+    cout<<"S2 is: ";
     s2.display();
     
-    Student *s3 = new Student(4500,2300);
-//    (*s3).setAge(45);
-//    (*s3).setRollno(20000);
+    
+    //Creating objects dynamically
+    Student *s3 = new Student(20,200);
+    cout<<"S3 is: ";
     s3->display();
-    */
     
-    Student s(12);
-    cout<<"Address of s: "<<&s<<endl;
-    s.display();
+    Student s4(*s3);
+    cout<<"S4 is: ";
+    s4.display();
+    Student *s5 = new Student(*s3);
+    cout<<"S5 is: ";
+    s5->display();
+    Student *s6 = new Student(s1);
+    cout<<"S6 is: ";
+    s6->display();
     
-    
-    Student s1(10,1000);
-    cout<<"Address of s1: "<<&s1<<endl;
-    s1.display();
-    
-    Student s2(20,2000);
-    cout<<"Address of s2: "<<&s2<<endl;
-    s2.display();
     
     return 0;
 }
