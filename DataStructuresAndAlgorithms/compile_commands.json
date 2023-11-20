@@ -1,4 +1,12 @@
 [{
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ComplexNumbers/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ComplexNumbers",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ComplexNumbers/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ComplexNumbers/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FractionsInMathematics/main.cpp",
+  "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FractionsInMathematics",
+  "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FractionsInMathematics/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FractionsInMathematics/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp",
   "directory": "/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment",
   "command": "/usr/bin/g++ -c /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp -o /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp.o -target x86_64-redhat-linux -I/usr/include/c++/13 -I/usr/include/c++/13/x86_64-redhat-linux -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-redhat-linux/13/include -I/usr/local/include -I/usr/include -I. -I.  -g  -O0  -std=c++17  -Wall"

@@ -1,3 +1,5 @@
+/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ComplexNumbers/main.cpp
+/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/FractionsInMathematics/main.cpp
 /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/TestingEnviroment/main.cpp
 /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ReversingArray(SWAPFunction)/main.cpp
 /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/ArrayBasics/main.cpp

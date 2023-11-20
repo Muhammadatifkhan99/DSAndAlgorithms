@@ -13,7 +13,9 @@
   <Project Name="ReversingAString" Path="ReversingAString/ReversingAString.project" Active="No"/>
   <Project Name="InbuiltFunctions" Path="InbuiltFunctions/InbuiltFunctions.project" Active="No"/>
   <Project Name="ObjectOrientedProgramming" Path="ObjectOrientedProgramming/ObjectOrientedProgramming.project" Active="No"/>
-  <Project Name="Constructor" Path="Constructor/Constructor.project" Active="Yes"/>
+  <Project Name="Constructor" Path="Constructor/Constructor.project" Active="No"/>
+  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="No"/>
+  <Project Name="ComplexNumbers" Path="ComplexNumbers/ComplexNumbers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -31,6 +33,8 @@
       <Project Name="InbuiltFunctions" ConfigName="Debug"/>
       <Project Name="ObjectOrientedProgramming" ConfigName="Debug"/>
       <Project Name="Constructor" ConfigName="Debug"/>
+      <Project Name="FractionsInMathematics" ConfigName="Debug"/>
+      <Project Name="ComplexNumbers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -48,6 +52,8 @@
       <Project Name="InbuiltFunctions" ConfigName="Release"/>
       <Project Name="ObjectOrientedProgramming" ConfigName="Release"/>
       <Project Name="Constructor" ConfigName="Release"/>
+      <Project Name="FractionsInMathematics" ConfigName="Release"/>
+      <Project Name="ComplexNumbers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

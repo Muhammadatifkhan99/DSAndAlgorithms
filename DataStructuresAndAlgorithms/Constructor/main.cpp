@@ -37,35 +37,26 @@ public: // we need to specify public and after this everything will be public i.
     void display(){
         cout<<"The rollno is: "<<rollno<<" and age is: "<<age<<endl;
     }
+    ~Student(){
+        cout<<"Destructor called for: "<<this<<endl;
+    }
 };
     
     
 int main(){
     
+  
     Student s1(10,100);
-    cout<<"S1 is: ";
-    s1.display();
     
-    Student s2(s1);
-    cout<<"S2 is: ";
-    s2.display();
+    Student s2(20,200);
     
+    Student *s3 = new Student(30,300);
     
-    //Creating objects dynamically
-    Student *s3 = new Student(20,200);
-    cout<<"S3 is: ";
-    s3->display();
+    s2 = s1;
+    *s3 = s2;
+    s2 = *s3;
     
-    Student s4(*s3);
-    cout<<"S4 is: ";
-    s4.display();
-    Student *s5 = new Student(*s3);
-    cout<<"S5 is: ";
-    s5->display();
-    Student *s6 = new Student(s1);
-    cout<<"S6 is: ";
-    s6->display();
-    
+    delete s3;
     
     return 0;
 }
