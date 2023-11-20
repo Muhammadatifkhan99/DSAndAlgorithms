@@ -18,6 +18,10 @@ public:
     void print(){
         cout<<real<<" + "<<imaginary<<"i"<<endl;
     }
+    
+    
+    //this method is not working as expected I have tried alot of solutions, I will try to remove the 
+    //bug but if left unchanged please consider looking it before using this code....Thanks
     void multiply(Complex const& c2){
         real = (real * c2.real) - (imaginary * c2.imaginary);
         imaginary = (real * c2.imaginary) + (imaginary * c2.real);
