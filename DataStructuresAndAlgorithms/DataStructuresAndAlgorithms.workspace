@@ -15,7 +15,8 @@
   <Project Name="ObjectOrientedProgramming" Path="ObjectOrientedProgramming/ObjectOrientedProgramming.project" Active="No"/>
   <Project Name="Constructor" Path="Constructor/Constructor.project" Active="No"/>
   <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="No"/>
-  <Project Name="ComplexNumbers" Path="ComplexNumbers/ComplexNumbers.project" Active="Yes"/>
+  <Project Name="ComplexNumbers" Path="ComplexNumbers/ComplexNumbers.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -35,6 +36,7 @@
       <Project Name="Constructor" ConfigName="Debug"/>
       <Project Name="FractionsInMathematics" ConfigName="Debug"/>
       <Project Name="ComplexNumbers" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -54,6 +56,7 @@
       <Project Name="Constructor" ConfigName="Release"/>
       <Project Name="FractionsInMathematics" ConfigName="Release"/>
       <Project Name="ComplexNumbers" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
