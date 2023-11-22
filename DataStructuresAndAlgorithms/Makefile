@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ UserDefinedCopyConstructor - Debug ]----------"
-	@cd "UserDefinedCopyConstructor" && "$(MAKE)" -f  "UserDefinedCopyConstructor.mk"
+	@echo "----------Building project:[ ConstructorIntializationList - Debug ]----------"
+	@cd "ConstructorIntializationList" && "$(MAKE)" -f  "ConstructorIntializationList.mk"
 clean:
-	@echo "----------Cleaning project:[ UserDefinedCopyConstructor - Debug ]----------"
-	@cd "UserDefinedCopyConstructor" && "$(MAKE)" -f  "UserDefinedCopyConstructor.mk" clean
+	@echo "----------Cleaning project:[ ConstructorIntializationList - Debug ]----------"
+	@cd "ConstructorIntializationList" && "$(MAKE)" -f  "ConstructorIntializationList.mk" clean
