@@ -14,11 +14,11 @@
   <Project Name="InbuiltFunctions" Path="InbuiltFunctions/InbuiltFunctions.project" Active="No"/>
   <Project Name="ObjectOrientedProgramming" Path="ObjectOrientedProgramming/ObjectOrientedProgramming.project" Active="No"/>
   <Project Name="Constructor" Path="Constructor/Constructor.project" Active="No"/>
-  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="No"/>
+  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="Yes"/>
   <Project Name="ComplexNumbers" Path="ComplexNumbers/ComplexNumbers.project" Active="No"/>
   <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
   <Project Name="UserDefinedCopyConstructor" Path="UserDefinedCopyConstructor/UserDefinedCopyConstructor.project" Active="No"/>
-  <Project Name="ConstructorIntializationList" Path="ConstructorIntializationList/ConstructorIntializationList.project" Active="Yes"/>
+  <Project Name="ConstructorIntializationList" Path="ConstructorIntializationList/ConstructorIntializationList.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

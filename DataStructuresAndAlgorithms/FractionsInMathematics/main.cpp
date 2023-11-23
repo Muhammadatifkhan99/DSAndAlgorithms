@@ -8,9 +8,22 @@ private:
     int denuminator {};
     
 public:
+    Fraction(){}
     Fraction(int numerator,int denuminator){
         this->numerator = numerator;
         this->denuminator = denuminator;
+    }
+    int getNumerator()const{
+        return numerator;
+    }
+    int getDenuminator() const{
+        return denuminator;
+    }
+    void setNuminator(int n){
+        numerator = n;
+    }
+    void setDenuminator(int d){
+        denuminator = d;
     }
     
     void print(){
@@ -54,15 +67,9 @@ int main(){
     
     Fraction f1(10,2);
     Fraction f2(15,4);
+    Fraction const f3;
     
-    f1.add(f2);
-    f1.print();
-    f2.print();
-    
-    f1.multiply(f2);
-    f1.print();
-    f2.print();
-    
+    cout<<f3.getDenuminator()<<f3.getNumerator()<<endl;
     
     return 0;
 }
