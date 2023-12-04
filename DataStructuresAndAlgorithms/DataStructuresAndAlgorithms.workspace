@@ -14,11 +14,12 @@
   <Project Name="InbuiltFunctions" Path="InbuiltFunctions/InbuiltFunctions.project" Active="No"/>
   <Project Name="ObjectOrientedProgramming" Path="ObjectOrientedProgramming/ObjectOrientedProgramming.project" Active="No"/>
   <Project Name="Constructor" Path="Constructor/Constructor.project" Active="No"/>
-  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="Yes"/>
+  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="No"/>
   <Project Name="ComplexNumbers" Path="ComplexNumbers/ComplexNumbers.project" Active="No"/>
   <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
   <Project Name="UserDefinedCopyConstructor" Path="UserDefinedCopyConstructor/UserDefinedCopyConstructor.project" Active="No"/>
   <Project Name="ConstructorIntializationList" Path="ConstructorIntializationList/ConstructorIntializationList.project" Active="No"/>
+  <Project Name="InitializationList" Path="InitializationList/InitializationList.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -41,6 +42,7 @@
       <Project Name="ShallowCopy" ConfigName="Debug"/>
       <Project Name="UserDefinedCopyConstructor" ConfigName="Debug"/>
       <Project Name="ConstructorIntializationList" ConfigName="Debug"/>
+      <Project Name="InitializationList" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -63,6 +65,7 @@
       <Project Name="ShallowCopy" ConfigName="Release"/>
       <Project Name="UserDefinedCopyConstructor" ConfigName="Release"/>
       <Project Name="ConstructorIntializationList" ConfigName="Release"/>
+      <Project Name="InitializationList" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
