@@ -30,17 +30,18 @@ public:
         cout<<numerator<<"/"<<denuminator<<endl;
     }
     
-    void add(Fraction f2){
+    Fraction add(Fraction f2){
         int lcm = this->numerator * f2.denuminator;
         int x = lcm/denuminator;
         int y = lcm/f2.denuminator;
         int num = x*numerator + y*f2.numerator;
         
         //store result in f1
-        this->numerator = num;
-        this->denuminator = lcm;
-
-        simplify();
+//        this->numerator = num;
+//        this->denuminator = lcm;
+        Fraction fnew(num,lcm);
+        fnew.simplify();
+        return fnew;
     }
     void multiply(Fraction const &f2){
         numerator = numerator * f2.numerator;
@@ -67,7 +68,15 @@ int main(){
     
     Fraction f1(10,2);
     Fraction f2(15,4);
-    Fraction const f3;
+    Fraction f3;
+     f3 = f1.add(f2);
+     
+     f1.print();
+     f2.print();
+     f3.print();
+     
+    
+    
     
     cout<<f3.getDenuminator()<<f3.getNumerator()<<endl;
     
