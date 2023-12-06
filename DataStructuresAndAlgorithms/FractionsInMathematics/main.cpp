@@ -78,7 +78,7 @@ public:
     void simplify(){
         int gcd = 1;
         int j = min(this->numerator,this->denuminator);
-        cout<<j<<" This is the minimum value of numerator and denumerator"<<endl;
+//        cout<<j<<endl;
         for(int i{1};i<=j;i++){
             if(numerator%i == 0 && denuminator%i == 0){
                 gcd = i;
@@ -87,10 +87,16 @@ public:
         numerator = numerator/gcd;
         denuminator = denuminator/gcd;
     }
-    
-    void operator++ (){
+    //this function is returning by reference the object of fraction class
+    /*when we return by value a temp. copy is created in memory 
+     * when we return by reference a temp. copy is not created and the value is returned
+     * in the function
+     * */
+    Fraction& operator++ (){
         numerator = numerator + denuminator;
         simplify();
+        
+        return *this;
     }
     
 };
@@ -100,9 +106,14 @@ int main(){
     
     Fraction f1(10,2);
     Fraction f2(15,4);
+    Fraction f3 = ++(++f1);
+    
     f1.print();
-    ++f1;
-    f1.print();
+    f3.print();
+    
+    
+    
+    
 //    Fraction f3;
 //    Fraction f4;
 //    
@@ -111,7 +122,7 @@ int main(){
 //    
 //  
 //     
-     f1.print();
+//     f1.print();
 //     f2.print();
 //     f3.print();
 //     f4.print();
