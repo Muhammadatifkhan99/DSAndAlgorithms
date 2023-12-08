@@ -14,13 +14,14 @@
   <Project Name="InbuiltFunctions" Path="InbuiltFunctions/InbuiltFunctions.project" Active="No"/>
   <Project Name="ObjectOrientedProgramming" Path="ObjectOrientedProgramming/ObjectOrientedProgramming.project" Active="No"/>
   <Project Name="Constructor" Path="Constructor/Constructor.project" Active="No"/>
-  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="Yes"/>
+  <Project Name="FractionsInMathematics" Path="FractionsInMathematics/FractionsInMathematics.project" Active="No"/>
   <Project Name="ComplexNumbers" Path="ComplexNumbers/ComplexNumbers.project" Active="No"/>
   <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
   <Project Name="UserDefinedCopyConstructor" Path="UserDefinedCopyConstructor/UserDefinedCopyConstructor.project" Active="No"/>
   <Project Name="ConstructorIntializationList" Path="ConstructorIntializationList/ConstructorIntializationList.project" Active="No"/>
   <Project Name="InitializationList" Path="InitializationList/InitializationList.project" Active="No"/>
   <Project Name="StaticClassMembers" Path="StaticClassMembers/StaticClassMembers.project" Active="No"/>
+  <Project Name="DynamicArrayClass" Path="DynamicArrayClass/DynamicArrayClass.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -45,6 +46,7 @@
       <Project Name="ConstructorIntializationList" ConfigName="Debug"/>
       <Project Name="InitializationList" ConfigName="Debug"/>
       <Project Name="StaticClassMembers" ConfigName="Debug"/>
+      <Project Name="DynamicArrayClass" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -69,6 +71,7 @@
       <Project Name="ConstructorIntializationList" ConfigName="Release"/>
       <Project Name="InitializationList" ConfigName="Release"/>
       <Project Name="StaticClassMembers" ConfigName="Release"/>
+      <Project Name="DynamicArrayClass" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
