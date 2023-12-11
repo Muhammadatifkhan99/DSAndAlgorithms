@@ -21,7 +21,8 @@
   <Project Name="ConstructorIntializationList" Path="ConstructorIntializationList/ConstructorIntializationList.project" Active="No"/>
   <Project Name="InitializationList" Path="InitializationList/InitializationList.project" Active="No"/>
   <Project Name="StaticClassMembers" Path="StaticClassMembers/StaticClassMembers.project" Active="No"/>
-  <Project Name="DynamicArrayClass" Path="DynamicArrayClass/DynamicArrayClass.project" Active="Yes"/>
+  <Project Name="DynamicArrayClass" Path="DynamicArrayClass/DynamicArrayClass.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -47,6 +48,7 @@
       <Project Name="InitializationList" ConfigName="Debug"/>
       <Project Name="StaticClassMembers" ConfigName="Debug"/>
       <Project Name="DynamicArrayClass" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -72,6 +74,7 @@
       <Project Name="InitializationList" ConfigName="Release"/>
       <Project Name="StaticClassMembers" ConfigName="Release"/>
       <Project Name="DynamicArrayClass" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,3 +1,5 @@
+/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/Vectors/main.cpp
+/home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/DynamicArrayClass/practice.cpp
 /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/DynamicArrayClass/main.cpp
 /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/StaticClassMembers/main.cpp
 /home/atif/Programming/DataStructuresAndAlgorithms/DSAndAlgorithms/DataStructuresAndAlgorithms/InitializationList/main.cpp
