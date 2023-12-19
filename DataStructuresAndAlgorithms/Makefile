@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Vectors - Debug ]----------"
-	@cd "Vectors" && "$(MAKE)" -f  "Vectors.mk"
+	@echo "----------Building project:[ SelectionSortAlgorithm - Debug ]----------"
+	@cd "SelectionSortAlgorithm" && "$(MAKE)" -f  "SelectionSortAlgorithm.mk"
 clean:
-	@echo "----------Cleaning project:[ Vectors - Debug ]----------"
-	@cd "Vectors" && "$(MAKE)" -f  "Vectors.mk" clean
+	@echo "----------Cleaning project:[ SelectionSortAlgorithm - Debug ]----------"
+	@cd "SelectionSortAlgorithm" && "$(MAKE)" -f  "SelectionSortAlgorithm.mk" clean
