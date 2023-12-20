@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ SelectionSortAlgorithm - Debug ]----------"
-	@cd "SelectionSortAlgorithm" && "$(MAKE)" -f  "SelectionSortAlgorithm.mk"
+	@echo "----------Building project:[ BubbleSortAlgorithm - Debug ]----------"
+	@cd "BubbleSortAlgorithm" && "$(MAKE)" -f  "BubbleSortAlgorithm.mk"
 clean:
-	@echo "----------Cleaning project:[ SelectionSortAlgorithm - Debug ]----------"
-	@cd "SelectionSortAlgorithm" && "$(MAKE)" -f  "SelectionSortAlgorithm.mk" clean
+	@echo "----------Cleaning project:[ BubbleSortAlgorithm - Debug ]----------"
+	@cd "BubbleSortAlgorithm" && "$(MAKE)" -f  "BubbleSortAlgorithm.mk" clean

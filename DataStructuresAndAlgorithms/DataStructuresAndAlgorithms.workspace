@@ -23,7 +23,8 @@
   <Project Name="StaticClassMembers" Path="StaticClassMembers/StaticClassMembers.project" Active="No"/>
   <Project Name="DynamicArrayClass" Path="DynamicArrayClass/DynamicArrayClass.project" Active="No"/>
   <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
-  <Project Name="SelectionSortAlgorithm" Path="SelectionSortAlgorithm/SelectionSortAlgorithm.project" Active="Yes"/>
+  <Project Name="SelectionSortAlgorithm" Path="SelectionSortAlgorithm/SelectionSortAlgorithm.project" Active="No"/>
+  <Project Name="BubbleSortAlgorithm" Path="BubbleSortAlgorithm/BubbleSortAlgorithm.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -51,6 +52,7 @@
       <Project Name="DynamicArrayClass" ConfigName="Debug"/>
       <Project Name="Vectors" ConfigName="Debug"/>
       <Project Name="SelectionSortAlgorithm" ConfigName="Debug"/>
+      <Project Name="BubbleSortAlgorithm" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -78,6 +80,7 @@
       <Project Name="DynamicArrayClass" ConfigName="Release"/>
       <Project Name="Vectors" ConfigName="Release"/>
       <Project Name="SelectionSortAlgorithm" ConfigName="Release"/>
+      <Project Name="BubbleSortAlgorithm" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
